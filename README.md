@@ -6,7 +6,7 @@ Tener instalado virtualenv en su computadora
 Ejecutamos una consola e introducimos el siguiente comando
 **virtualenv nombre_entorno**
 Activamos el ambiente virtual 
-**source python-env/bin/activate**
+**source nombre_entorno/bin/activate**
 ## Instalación del django
 **pip install django**
 ## Creación del proyecto 
