@@ -4,10 +4,8 @@ Esto comando funcionaran para linux
 Tener instalado virtualenv en su computadora
 ## Creación del entorno virtual 
 Ejecutamos una consola e introducimos el siguiente comando
-
     ** virtualenv nombre_entorno**
 Activamos el ambiente virtual 
-
      **source python-env/bin/activate**
 ## Instalación del django
 **pip install django**
